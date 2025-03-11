@@ -2,6 +2,9 @@
     font-family: monospace;
     }
     img {
-        width: 400px;
-        height: 400px;
+        width: 25%;
     }
+    body {
+        background-color: lightgray;
+    }
+    
